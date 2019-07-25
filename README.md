@@ -1,7 +1,7 @@
 # CoSaMP
 
 CoSaMP algorithm in Python. <br/>
-Dependencies: **numpy** library.
+Dependencies: **numpy** and **scipy** libraries.
 
 MATLAB versions of the algorithm are readly available (see [here](https://www.mathworks.com/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery) for instance). This Python method is based on the MATLAB routine written by Prof. Bob L. Sturm.
 
